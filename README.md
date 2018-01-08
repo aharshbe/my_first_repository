@@ -2,4 +2,4 @@
 # This is my first Git repo for Holberton
 ## Hello, my name is Austin Harshberger
 ### I am very excited to be learning at Holberton
-#### To view some of my projects, check out my website [here](https://devrobot.live/)
+#### To view some of my projects, check out my website [here](https://devrobot.live/).
